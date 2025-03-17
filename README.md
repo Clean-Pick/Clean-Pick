@@ -41,4 +41,4 @@ A clear and clean website for the fictional entity Cogip for managing business r
 
 ## Connect with Me
 
-{Linkedin : https://www.linkedin.com/in/benjamin-willem/}
+Linkedin : https://www.linkedin.com/in/benjamin-willem/
