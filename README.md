@@ -12,9 +12,9 @@ html,css,js,php,figma,mysql,sqlite,react,nodejs,tailwind
 
 ## Top Projects
 
-- [Movies](https://github.com/Clean-Pick/Movies): A movie browser webapp built with React. **Stars:** 0, **Language:** JavaScript
-- [React-Pokedex](https://github.com/Clean-Pick/React-Pokedex): A Pokédex App with React. **Stars:** 0, **Language:** JavaScript
-- [COGIP](https://github.com/Clean-Pick/COGIP): A business-related website for the fictional entity Cogip. **Stars:** 1, **Language:** JavaScript
+- [Movies](https://github.com/Clean-Pick/Movies): A movie browser webapp built with React.
+- [React-Pokedex](https://github.com/Clean-Pick/React-Pokedex): A Pokédex App with React.
+- [COGIP](https://github.com/Clean-Pick/COGIP): A business-related website for the fictional entity Cogip.
 
 ## GitHub Stats
 
